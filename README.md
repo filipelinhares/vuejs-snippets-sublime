@@ -6,7 +6,8 @@
 ```
 : {
 
-}```
+}
+```
 
 
 ###vue -  [Docs](http://vuejs.org/api/)
