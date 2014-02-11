@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+Vue.filter('${1:my-filter}', function (value) {
+
+    ${2://content}
+    
+})
+]]></content>
+	<tabTrigger>vuef</tabTrigger>
+	<scope>source.js</scope>
+</snippet>
