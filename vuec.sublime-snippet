@@ -11,6 +11,6 @@
 <style lang="css">
 </style> 
 ]]></content>
-	<tabTrigger>vue-component</tabTrigger>
+	<tabTrigger>vuec</tabTrigger>
 	<scope>text.html.vue</scope>
 </snippet>

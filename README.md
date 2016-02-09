@@ -5,12 +5,11 @@
 
 ```
 : {
-
 }
 ```
 
 
-###vue -  [Docs](http://vuejs.org/api/)
+###vue -  [Instance](http://vuejs.org/guide/instance.html)
 ```
 var ${1:vm} = new Vue({
 	
@@ -20,7 +19,7 @@ var ${1:vm} = new Vue({
 ```
 
 
-###vued -  [Docs](http://vuejs.org/guide/directives.html)
+###vued -  [Directive](http://vuejs.org/guide/custom-directive.html)
 ```
 Vue.directive('${1:my-directive}', {
     
@@ -38,13 +37,57 @@ Vue.directive('${1:my-directive}', {
 })
 ```
 
-###vuef - [Docs](http://vuejs.org/guide/filters.html)
+###vuef - [Filter](http://vuejs.org/guide/custom-filter.html)
 ```
 Vue.filter('${1:my-filter}', function (value) {
 
     ${2://content}
     
 })
+```
+
+###vuec - [Single file component](http://vuejs.org/guide/application.html#Single_File_Components)
+```
+<template>
+</template>
+
+<script>
+  export default {
+  }
+</script>
+
+<style lang="css">
+</style>
+```
+
+###vue-http - [Http request](https://github.com/vuejs/vue-resource/blob/master/docs/http.md)
+*requires vue-resouce
+```
+this.\$http('${1:url}',${2:data}, {method:'${3:method}'}).then(res => {
+   console.log(res); 
+}, err => {
+    console.log(err);
+});
+```
+
+###vue-http-get - [Http get request] (https://github.com/vuejs/vue-resource/blob/master/docs/http.md)
+*requires vue-resouce
+```
+this.\$http.get('${1:url}',${2:data}, ${3:options}).then(res => {
+   console.log(res); 
+}, err => {
+    console.log(err);
+});
+```
+
+###vue-http-post - [Http post request](https://github.com/vuejs/vue-resource/blob/master/docs/http.md)
+*requires vue-resouce
+```
+this.\$http.post('${1:url}',${2:data}, ${3:options}).then(res => {
+   console.log(res); 
+}, err => {
+    console.log(err);
+});
 ```
 
 
