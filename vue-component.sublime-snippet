@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+<template>
+</template>
+
+<script>
+  export default {
+  }
+</script>
+
+<style lang="css">
+</style> 
+]]></content>
+	<tabTrigger>vue-component</tabTrigger>
+	<scope>text.html.vue</scope>
+</snippet>
