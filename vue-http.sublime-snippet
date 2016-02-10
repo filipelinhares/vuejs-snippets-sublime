@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+this.\$http('${1:url}',${2:data}, {method:'${3:method}'}).then(res => {
+   console.log(res); 
+}, err => {
+    console.log(err);
+});
+]]></content>
+	<tabTrigger>vue-http</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

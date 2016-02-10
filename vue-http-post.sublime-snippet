@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+this.\$http.post('${1:url}',${2:data}, ${3:options}).then(res => {
+   console.log(res); 
+}, err => {
+    console.log(err);
+});
+]]></content>
+	<tabTrigger>vue-http-post</tabTrigger>
+	<scope>source.js</scope>
+</snippet>
