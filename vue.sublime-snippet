@@ -8,4 +8,5 @@ var ${1:vm} = new Vue({
 ]]></content>
 	<tabTrigger>vue</tabTrigger>
 	<scope>source.js</scope>
+  <description>Vue instance</description>
 </snippet>

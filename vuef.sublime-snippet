@@ -7,5 +7,5 @@ Vue.filter('${1:my-filter}', function (value) {
 })
 ]]></content>
 	<tabTrigger>vuef</tabTrigger>
-	<scope>source.js</scope>
+	<scope>Vue filter</scope>
 </snippet>

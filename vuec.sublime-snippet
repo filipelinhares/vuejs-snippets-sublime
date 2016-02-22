@@ -4,13 +4,22 @@
 </template>
 
 <script>
-  export default {
+export default {
+
+  name: '${1:component_name}',
+
+  data () {
+    return {
+
+    };
   }
+};
 </script>
 
-<style lang="css">
-</style> 
+<style lang="${2:css}" scoped>
+</style>
 ]]></content>
 	<tabTrigger>vuec</tabTrigger>
 	<scope>text.html.vue</scope>
+  <description>Vue component</description>
 </snippet>
