@@ -17,4 +17,5 @@ Vue.directive('${1:my-directive}', {
 ]]></content>
 	<tabTrigger>vued</tabTrigger>
 	<scope>source.js</scope>
+    <description>Vue directive</description>
 </snippet>
