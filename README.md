@@ -10,7 +10,8 @@
 * **vueht** - this.$http()
 * **vuehtget** - this.$http.get()
 * **vuehtpost** - this.$http.post()
-* **vuertgo** - this.$router.go()
+* **vuert** - this.$route
+* **vuertgo** - this.$route.router.go()
 
 ##Update
 
