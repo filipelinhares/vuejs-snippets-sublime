@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<a href="#" v-link="{${1:path}:'${2:url}'}">${3}</a>
+<a href="#" v-link="{path:'${1:url}'}">${2}</a>
 ]]></content>
 	<tabTrigger>v-link</tabTrigger>
 	<scope>text.html</scope>
