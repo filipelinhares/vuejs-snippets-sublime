@@ -1,15 +1,15 @@
 <snippet>
 	<content><![CDATA[
 Vue.directive('${1:my-directive}', {
-    
+
     bind: function () {
         ${2://content}
     },
-    
+
     update: function (value) {
         ${3://content}
     },
-    
+
     unbind: function () {
         ${4://content}
     }

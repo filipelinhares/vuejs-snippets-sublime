@@ -1,0 +1,14 @@
+<snippet>
+  <content><![CDATA[
+props: {
+  ${1:name} {
+    type: ${1:String}, ${2:// String, Number, Boolean, Function, Object, Array}
+    required: ${3:true},
+    default: ${4:null}
+  }
+}${5}
+]]></content>
+  <tabTrigger>vuecprops</tabTrigger>
+  <scope>source.js</scope>
+  <description>Vue component props</description>
+</snippet>

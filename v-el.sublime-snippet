@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+v-el:${1:el-name}
+]]></content>
+	<tabTrigger>v-el</tabTrigger>
+	<scope>text.html</scope>
+  <description>v-el:el-name</description>
+</snippet>

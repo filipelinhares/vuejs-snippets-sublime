@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+mixins: [${1:mixin}]${2}
+]]></content>
+	<tabTrigger>vuecmixins</tabTrigger>
+	<scope>source.js</scope>
+  <description>Vue component mixins</description>
+</snippet>
