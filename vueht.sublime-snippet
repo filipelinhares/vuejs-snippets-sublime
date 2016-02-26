@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 this.\$http('${1:url}',${2:data}, {method:'${3:method}'}).then(res => {
-  console.log(res); 
+  console.log(res);
 }).catch(err => {
   console.log(err);
 });

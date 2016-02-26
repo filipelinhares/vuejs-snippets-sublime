@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<div v-else>${1}</div>
+]]></content>
+  <tabTrigger>v-else</tabTrigger>
+  <scope>text.html</scope>
+  <description>&lt;div v-else&gt;</description>
+</snippet>
