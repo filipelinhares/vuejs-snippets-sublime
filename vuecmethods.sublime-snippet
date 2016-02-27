@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-methods {
+methods: {
   ${1:methodName} () {
     ${2}
   }
