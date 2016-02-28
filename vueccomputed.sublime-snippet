@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-computed {
+computed: {
   ${1:property} () {
     return ${2:true};
   }
