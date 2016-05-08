@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<div v-for="${1:item} in ${2:items}">${3}</div>
+<${1:div} v-for="${2:item} in ${3:items}">${4}</${1:div} >
 ]]></content>
 	<tabTrigger>v-for</tabTrigger>
 	<scope>text.html</scope>
