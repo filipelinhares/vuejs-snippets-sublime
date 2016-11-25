@@ -6,9 +6,9 @@
 <script>
 export default {
 
-  name: '${1:component_name}',
+  name: '${1:${TM_FILENAME/(.+)\..+|.*/$1/:component_name}}',
 
-  data() {
+  data () {
     return {
 
     };
