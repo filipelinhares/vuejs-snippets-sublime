@@ -8,7 +8,7 @@ export default {
 
   name: '${1:component_name}',
 
-  data () {
+  data() {
     return {
 
     };
