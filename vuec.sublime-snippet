@@ -11,9 +11,9 @@ export default {
   data () {
     return {
 
-    };
+    }
   }
-};
+}
 </script>
 
 <style lang="${2:css}" scoped>
