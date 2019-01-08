@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
+  <content><![CDATA[
 :${1:prop}="${2:data}"
 ]]></content>
-	<tabTrigger>v-bind</tabTrigger>
-	<scope>text.html</scope>
+  <tabTrigger>v-bind</tabTrigger>
+  <scope>text.html</scope>
   <description>:prop="data"</description>
 </snippet>

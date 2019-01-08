@@ -1,12 +1,12 @@
 <snippet>
-	<content><![CDATA[
+  <content><![CDATA[
 this.\$http.post('${1:url}',${2:data}, ${3:options}).then(res => {
   console.log(res);
 }).catch(err => {
   console.log(err);
 });
 ]]></content>
-	<tabTrigger>vuehtpost</tabTrigger>
-	<scope>source.js</scope>
+  <tabTrigger>vuehtpost</tabTrigger>
+  <scope>source.js</scope>
   <description>this.$http.post()</description>
 </snippet>

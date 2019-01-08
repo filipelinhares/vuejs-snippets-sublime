@@ -1,12 +1,12 @@
 <snippet>
-	<content><![CDATA[
+  <content><![CDATA[
 this.\$http('${1:url}',${2:data}, {method:'${3:method}'}).then(res => {
   console.log(res);
 }).catch(err => {
   console.log(err);
 });
 ]]></content>
-	<tabTrigger>vueht</tabTrigger>
-	<scope>source.js</scope>
+  <tabTrigger>vueht</tabTrigger>
+  <scope>source.js</scope>
   <description>this.$http()</description>
 </snippet>

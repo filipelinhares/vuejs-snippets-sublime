@@ -1,6 +1,6 @@
 {
   "name": "vuejs-snippets-sublime",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "description": "Vuejs snippets for Sublime Text",
   "main": "vuejs",
   "repository": {
@@ -13,9 +13,10 @@
     "text",
     "snippets"
   ],
-  "author":
-    ["Filipe Linhares"],
-    ["Tiago"]
+  "author": "Filipe Linhares <filipelinhares@outlook.com>",
+  "contributors": [
+    "Tiago <prog4mr@gmail.com>"
+  ],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/filipelinhares/vuejs-sublime-snippets/issues"

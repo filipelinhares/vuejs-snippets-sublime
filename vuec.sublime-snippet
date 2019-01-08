@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[
+  <content><![CDATA[
 <template>
 </template>
 
@@ -19,7 +19,7 @@ export default {
 <style lang="${2:css}" scoped>
 </style>
 ]]></content>
-	<tabTrigger>vuec</tabTrigger>
-	<scope>text.html.vue</scope>
+  <tabTrigger>vuec</tabTrigger>
+  <scope>text.html.vue</scope>
   <description>Vue component</description>
 </snippet>

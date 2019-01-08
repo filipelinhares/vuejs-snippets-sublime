@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
+  <content><![CDATA[
 this.\$route.router.go(${1:objectOrString});
 ]]></content>
-	<tabTrigger>vuertgo</tabTrigger>
-	<scope>source.js</scope>
+  <tabTrigger>vuertgo</tabTrigger>
+  <scope>source.js</scope>
   <description>this.$route.router.go()</description>
 </snippet>

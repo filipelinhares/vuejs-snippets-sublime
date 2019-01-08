@@ -1,12 +1,12 @@
 <snippet>
-	<content><![CDATA[
+  <content><![CDATA[
 computed: {
   ${1:property} () {
     return ${2:true};
   }
 }${3}
 ]]></content>
-	<tabTrigger>vueccomputed</tabTrigger>
-	<scope>source.js</scope>
+  <tabTrigger>vueccomputed</tabTrigger>
+  <scope>source.js</scope>
   <description>Vue computed props</description>
 </snippet>

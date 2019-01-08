@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
+  <content><![CDATA[
 v-ref:${1:ref-name}
 ]]></content>
-	<tabTrigger>v-ref</tabTrigger>
-	<scope>text.html</scope>
+  <tabTrigger>v-ref</tabTrigger>
+  <scope>text.html</scope>
   <description>v-ref:ref-name</description>
 </snippet>

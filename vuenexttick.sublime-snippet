@@ -1,10 +1,10 @@
 <snippet>
-	<content><![CDATA[
+  <content><![CDATA[
 Vue.nextTick(() => {
   ${1}
 });${2}
 ]]></content>
-	<tabTrigger>vuenextick</tabTrigger>
-	<scope>source.js</scope>
+  <tabTrigger>vuenextick</tabTrigger>
+  <scope>source.js</scope>
   <description>Vue.nextTick()</description>
 </snippet>

@@ -1,12 +1,12 @@
 <snippet>
-	<content><![CDATA[
+  <content><![CDATA[
 var ${1:vm} = new Vue({
 
-	${2:el: "${3:#demo}"}${4:}
+  ${2:el: "${3:#demo}"}${4:}
 
 })
 ]]></content>
-	<tabTrigger>vue</tabTrigger>
-	<scope>source.js</scope>
+  <tabTrigger>vue</tabTrigger>
+  <scope>source.js</scope>
   <description>Vue instance</description>
 </snippet>

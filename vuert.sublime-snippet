@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
+  <content><![CDATA[
 this.\$route${1}
 ]]></content>
-	<tabTrigger>vuert</tabTrigger>
-	<scope>source.js</scope>
+  <tabTrigger>vuert</tabTrigger>
+  <scope>source.js</scope>
   <description>this.$route</description>
 </snippet>

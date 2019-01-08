@@ -1,11 +1,11 @@
 <snippet>
-	<content><![CDATA[
+  <content><![CDATA[
 Vue.filter('${1:my-filter}', function (value) {
 
-    ${2://content}
+  ${2://content}
 
 })
 ]]></content>
-	<tabTrigger>vuef</tabTrigger>
-	<scope>Vue filter</scope>
+  <tabTrigger>vuef</tabTrigger>
+  <scope>Vue filter</scope>
 </snippet>

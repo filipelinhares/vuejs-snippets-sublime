@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
+  <content><![CDATA[
 @${1:evt}="${2:callback}"
 ]]></content>
-	<tabTrigger>v-on</tabTrigger>
-	<scope>text.html</scope>
+  <tabTrigger>v-on</tabTrigger>
+  <scope>text.html</scope>
   <description>@evt="callback"</description>
 </snippet>

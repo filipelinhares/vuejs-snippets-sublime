@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
+  <content><![CDATA[
 <${1:div} v-for="${2:item} in ${3:items}">${4}</${1:div}>
 ]]></content>
-	<tabTrigger>v-for</tabTrigger>
-	<scope>text.html</scope>
+  <tabTrigger>v-for</tabTrigger>
+  <scope>text.html</scope>
   <description>&lt;div v-for="item in items"&gt;</description>
 </snippet>
