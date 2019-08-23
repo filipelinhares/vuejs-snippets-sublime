@@ -1,0 +1,26 @@
+<snippet>
+  <content><![CDATA[
+import Vue from 'vue'
+import Vuex from 'vuex'
+
+Vue.use(Vuex)
+
+export default new Vuex.store({
+  state: {
+
+  },
+
+  mutations:{
+
+  },
+
+  actions: {
+
+  },
+
+})
+]]></content>
+  <tabTrigger>vuex</tabTrigger>
+  <scope>source.js</scope>
+  <description>Vue component</description>
+</snippet>
