@@ -33,6 +33,9 @@ Snippets for Sublime Text with the key features of Vue.js
 - `vuert` ⇢ `this.$route`
 - `vuertgo` ⇢ `this.$route.router.go()`
 
+### Vuex
+- `vuex` ⇢ `Vuex instance`
+
 ### Directives:
 
 - `v-bind` ⇢ `:prop="data"`
