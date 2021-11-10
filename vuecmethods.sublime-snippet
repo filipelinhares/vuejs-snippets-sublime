@@ -7,6 +7,6 @@ methods: {
 }${3}
 ]]></content>
   <tabTrigger>vuecmethods</tabTrigger>
-  <scope>source.js</scope>
+  <scope>source.js.embedded.html</scope>
   <description>Vue component methods</description>
 </snippet>

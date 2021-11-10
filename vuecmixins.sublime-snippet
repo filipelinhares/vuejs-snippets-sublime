@@ -3,6 +3,6 @@
 mixins: [${1:mixin}]${2}
 ]]></content>
   <tabTrigger>vuecmixins</tabTrigger>
-  <scope>source.js</scope>
+  <scope>source.js.embedded.html</scope>
   <description>Vue component mixins</description>
 </snippet>

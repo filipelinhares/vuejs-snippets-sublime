@@ -5,5 +5,5 @@
 }
 ]]></content>
   <tabTrigger>v</tabTrigger>
-  <scope>source.js</scope>
+  <scope>source.js.embedded.html</scope>
 </snippet>

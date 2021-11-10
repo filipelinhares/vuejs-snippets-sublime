@@ -3,6 +3,6 @@
 this.\$route${1}
 ]]></content>
   <tabTrigger>vuert</tabTrigger>
-  <scope>source.js</scope>
+  <scope>source.js.embedded.html</scope>
   <description>this.$route</description>
 </snippet>

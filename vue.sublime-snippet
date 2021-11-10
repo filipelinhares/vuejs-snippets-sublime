@@ -7,6 +7,6 @@ var ${1:vm} = new Vue({
 })
 ]]></content>
   <tabTrigger>vue</tabTrigger>
-  <scope>source.js</scope>
+  <scope>source.js.embedded.html</scope>
   <description>Vue instance</description>
 </snippet>
