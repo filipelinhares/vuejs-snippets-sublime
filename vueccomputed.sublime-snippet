@@ -7,6 +7,6 @@ computed: {
 }${3}
 ]]></content>
   <tabTrigger>vueccomputed</tabTrigger>
-  <scope>source.js</scope>
+  <scope>source.js.embedded.html</scope>
   <description>Vue computed props</description>
 </snippet>

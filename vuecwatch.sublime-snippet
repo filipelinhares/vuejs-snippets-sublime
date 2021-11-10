@@ -7,6 +7,6 @@ watch: {
 }${5}
 ]]></content>
   <tabTrigger>vuecwatch</tabTrigger>
-  <scope>source.js</scope>
+  <scope>source.js.embedded.html</scope>
   <description>Vue component watch</description>
 </snippet>

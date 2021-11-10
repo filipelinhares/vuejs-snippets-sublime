@@ -9,6 +9,6 @@ props: {
 }${5}
 ]]></content>
   <tabTrigger>vuecprops</tabTrigger>
-  <scope>source.js</scope>
+  <scope>source.js.embedded.html</scope>
   <description>Vue component props</description>
 </snippet>

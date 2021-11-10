@@ -7,6 +7,6 @@ this.\$http.post('${1:url}',${2:data}, ${3:options}).then(res => {
 });
 ]]></content>
   <tabTrigger>vuehtpost</tabTrigger>
-  <scope>source.js</scope>
+  <scope>source.js.embedded.html</scope>
   <description>this.$http.post()</description>
 </snippet>

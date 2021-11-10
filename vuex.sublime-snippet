@@ -21,6 +21,6 @@ export default new Vuex.store({
 })
 ]]></content>
   <tabTrigger>vuex</tabTrigger>
-  <scope>source.js</scope>
+  <scope>source.js.embedded.html</scope>
   <description>Vue component</description>
 </snippet>
